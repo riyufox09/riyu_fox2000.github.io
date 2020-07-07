@@ -1,8 +1,0 @@
-Origin: riyu_fox2000.github.io
-Label: riyu
-Suite: stable
-Version: 1.0
-Codename: fox
-Architectures: iphoneos-arm
-Components: main
-Description: riyu_fox
